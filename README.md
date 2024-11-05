@@ -1,4 +1,4 @@
-# LITA-Sales-Report
+# POWERBI-Sales-Report
 This report provides an overview of sales performance, including total sales, average sales, and highest-selling products.
 Sales Overview
     - Total Sales 
